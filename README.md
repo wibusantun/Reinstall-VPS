@@ -9,4 +9,6 @@
 
 ```html
 wget https://raw.githubusercontent.com/wibusantun/Reinstall-VPS/main/Network-Reinstall-System-Modify.sh &&chmod +x Network-Reinstall-System-Modify.sh && bash Network-Reinstall-System-Modify.sh
+
+password-vps: zoxxenon
 ```
