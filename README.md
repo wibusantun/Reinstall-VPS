@@ -21,5 +21,5 @@ chmod +x reinstall.sh
 ```
 
 ```
-bash reinstall.sh debian 10 --password PASSWORD_KAMU
+bash reinstall.sh debian 11 --password PASSWORD_KAMU
 ```
