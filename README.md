@@ -14,9 +14,7 @@ password-vps: zoxxenon
 
 
 ```
-curl -O https://raw.githubusercontent.com/wibusantun/Reinstall-VPS/main/reinstall.sh
-```
-```
+curl -fsSL https://raw.githubusercontent.com/bin456789/reinstall/main/reinstall.sh -o reinstall.sh
 chmod +x reinstall.sh
 ```
 
